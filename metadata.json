@@ -1,0 +1,6 @@
+{
+  "name": "Annapurna Rasoi - Homely Bites Meal Management",
+  "description": "Artisanal home meal & tiffin dispatch service with daily menu posting, cutoff deadlines, subscriber notifications, and customizable CSS variables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
